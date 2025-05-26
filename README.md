@@ -1,5 +1,7 @@
 # 📱 Portfolio_5602636 – Nathan Ghe (Matrikelnummer: 5602636)
 
+# Email: nathan.ghebretensae@mnd.thm.de
+
 Dieses Repository enthält mein Portfolio-Projekt, das mit **Flutter** entwickelt wurde. Die App zeigt eine Startseite mit einer Begrüßungsnachricht und wird schrittweise erweitert.
 
 ---
